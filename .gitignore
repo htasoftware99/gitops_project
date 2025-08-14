@@ -1,0 +1,13 @@
+gitops_app.egg-info
+logs
+results
+src/__pycache__
+src/common/__pycache__
+src/config/__pycache__
+src/generator/__pycache__
+src/llm/__pycache__
+src/models/__pycache__
+src/prompts/__pycache__
+src/utils/__pycache__
+venv
+.env
