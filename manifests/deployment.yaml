@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: llmops-app
-        image: htai99/gitops-ai-project:v2
+        image: htai99/gitops-ai-project:__IMAGE_TAG__
         ports:
         - containerPort: 8501
         env:
