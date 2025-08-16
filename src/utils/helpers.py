@@ -63,7 +63,6 @@ class QuizManager:
                     key=f"fill_blank_{i}"
                 )
 
-            # Cevabı session_state içine kaydet
             st.session_state[f"user_answer_{i}"] = user_answer
 
 
